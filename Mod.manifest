@@ -16,7 +16,7 @@ TAG_ALLOW_ACHIEVEMENTS={"type":"bool","value":false}
 TAG_ADDS_EQUIPMENT={"type":"array","value":["SYSTEM_MIMIC_GUN"]}
 
 [links]
-HEVLIB_DISCORD={"URL":""}
+HEVLIB_DISCORD={"URL":"https://discord.com/channels/426287934870781952/1478522504644399244"}
 HEVLIB_GITHUB={"URL":"https://github.com/1-WT-1/MimicGun"}
 
 [manifest_definitions]
