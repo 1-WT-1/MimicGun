@@ -1,0 +1,25 @@
+[mod_information]
+id="wt.mimic_gun"
+name="Mimic Gun"
+description="MOD_MIMIC_GUN_DESC"
+brief="MOD_MIMIC_GUN_BRIEF"
+author="WT"
+credits=["Lancer TTRPG for the concept"]
+
+[version]
+version_major=0
+version_minor=1
+version_bugfix=0
+
+[tags]
+TAG_ALLOW_ACHIEVEMENTS={"type":"bool","value":false}
+TAG_ADDS_EQUIPMENT={"type":"array","value":["SYSTEM_MIMIC_GUN"]}
+
+[links]
+HEVLIB_DISCORD={"URL":""}
+HEVLIB_GITHUB={"URL":"https://github.com/1-WT-1/MimicGun"}
+
+[manifest_definitions]
+manifest_version=2.2
+changelog_path="changelog.txt"
+manifest_url="https://raw.githubusercontent.com/1-WT-1/MimicGun/main/Mod.manifest"

@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://weapons/WeaponSlot.tscn" type="PackedScene" id=1]
+[ext_resource path="res://MimicGun/weapons/MimicGun.gd" type="Script" id=2]
+
+[node name="MimicGun" instance=ExtResource( 1 )]
+position = Vector2( 0, 0 )
+script = ExtResource( 2 )
+rotationSpeed = 1.0
+gimbalLimit = 0.0
